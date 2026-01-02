@@ -1,0 +1,12 @@
+{
+  "module": {
+    "name": "history",
+    "type": "shared",
+    "description": "$string:shared_desc",
+    "deviceTypes": [
+      "wearable"
+    ],
+    "deliveryWithInstall": true,
+    "pages": "$profile:main_pages"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "module": {
+    "name": "menu_test",
+    "type": "feature",
+    "deviceTypes": [
+      "2in1",
+      "wearable"
+    ],
+    "deliveryWithInstall": true,
+    "installationFree": false
+  }
+}

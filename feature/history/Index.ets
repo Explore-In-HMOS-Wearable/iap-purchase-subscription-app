@@ -1,0 +1,1 @@
+export { HistoryView } from './src/main/ets/view/HistoryView';

@@ -1,0 +1,20 @@
+{
+  "name": "entry",
+  "version": "1.0.0",
+  "description": "Please describe the basic information.",
+  "main": "",
+  "author": "",
+  "license": "",
+  "dependencies": {
+    "core": "file:../core",
+    "splash": "file:../feature/splash",
+    "consumable": "file:../feature/consumable",
+    "nonconsumable": "file:../feature/nonconsumable",
+    "menu": "file:../feature/menu",
+    "history": "file:../feature/history",
+    "subsauto": "file:../feature/subsauto",
+    "subsnonauto": "file:../feature/subsnonauto"
+
+  }
+}
+

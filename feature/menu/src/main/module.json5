@@ -1,0 +1,10 @@
+{
+  "module": {
+    "name": "menu",
+    "type": "har",
+    "deviceTypes": [
+      "2in1",
+      "wearable"
+    ]
+  }
+}

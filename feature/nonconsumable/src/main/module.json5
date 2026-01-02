@@ -1,0 +1,9 @@
+{
+  "module": {
+    "name": "nonconsumable",
+    "type": "har",
+    "deviceTypes": [
+      "wearable"
+    ]
+  }
+}
